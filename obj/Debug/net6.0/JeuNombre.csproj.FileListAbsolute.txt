@@ -1,0 +1,15 @@
+C:\Users\IB\Desktop\Projets\JeuNombre\bin\Debug\net6.0\JeuNombre.exe
+C:\Users\IB\Desktop\Projets\JeuNombre\bin\Debug\net6.0\JeuNombre.deps.json
+C:\Users\IB\Desktop\Projets\JeuNombre\bin\Debug\net6.0\JeuNombre.runtimeconfig.json
+C:\Users\IB\Desktop\Projets\JeuNombre\bin\Debug\net6.0\JeuNombre.dll
+C:\Users\IB\Desktop\Projets\JeuNombre\bin\Debug\net6.0\JeuNombre.pdb
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.csproj.AssemblyReference.cache
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.AssemblyInfoInputs.cache
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.AssemblyInfo.cs
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.csproj.CoreCompileInputs.cache
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.dll
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\refint\JeuNombre.dll
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.pdb
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\JeuNombre.genruntimeconfig.cache
+C:\Users\IB\Desktop\Projets\JeuNombre\obj\Debug\net6.0\ref\JeuNombre.dll
